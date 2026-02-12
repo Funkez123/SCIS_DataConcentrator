@@ -57,5 +57,3 @@ ToDo/Bug:
 
 Backlog : 
 - W5500 Controller for TCP packets (strips the UDP Packet Header from tdata on AXI-streams)
-# SCIS_DataConcentrator
-# SCIS_DataConcentrator
